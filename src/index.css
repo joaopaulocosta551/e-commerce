@@ -1,0 +1,20 @@
+:root {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+
+  color-scheme: light dark;
+  color: #17183B;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+
