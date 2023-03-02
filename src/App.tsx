@@ -4,6 +4,7 @@ import './App.css'
 
 // COMPONENTS
 import { MenuNavi } from './components/MenuNav'
+import { MainPrincipal } from './components/MainContent'
 
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
   return (
     <div className="App">
      <MenuNavi value='Cozy&reg;'/>
+     <MainPrincipal />
      
     </div>
   )

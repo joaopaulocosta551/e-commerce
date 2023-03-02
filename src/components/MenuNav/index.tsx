@@ -16,6 +16,15 @@ export function MenuNavi({value}:IProps){
                     <DivLogo>{value}</DivLogo>
 
                     <DivMenu>
+                        {/* <nav style={{display: "flex"}}>
+                            <ul style={{display: "flex",}}>
+                                <li><a href="@">SHOP</a></li>
+                                <li><a href="@">COLLECTIVE</a></li>
+                                <li><a href="@">DESIGNERS</a></li>
+                                <li><a href="@">ABOUT US</a></li>
+                                <li><a href="@">CONTACT</a></li>
+                            </ul>
+                        </nav> */}
                         <span>SHOP</span>
                         <span>COLLECTIVE</span>
                         <span>DESIGNERS</span>
